@@ -26,3 +26,4 @@ https://www.thehenryford.org/documents/default-source/default-document-library/t
 https://www.cnbc.com/2023/05/16/cnbc-exclusive-cnbc-transcript-elon-musk-sits-down-with-cnbcs-david-faber-live-on-cnbc-tonight-.html
 https://www.scribd.com/document/324130713/Elon-Musk-interview-transcript-How-to-Build-the-Future
 https://transcript.lol/read/tedtalk/elon-musk/64a0b778503edabcbda8a4d0
+https://turboscribe.ai/transcript/share/4422534834081521519/HWE18owsC2u8E5u2HpZNikyBdermlV2YSwGlTEPKJJw/donald-trump-and-elon-musk-full-transcript-august-12-2024-https-x-com-i-spaces-1nakepnklwoxl
