@@ -7,6 +7,8 @@
 Web scraping: Collect text data from Elon Musk's tweets, interviews, and articles.
 Video/Audio processing: Gather video and audio content featuring Elon Musk.
 
+UPDATE: Seems some sites have blockers in place which makes it hard to scrape. Will paste the given transcripts into a txt file and then write a script to scrape the relevant parts in which Elon speaks. 
+
 
 2. Data Processing:
 
