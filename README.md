@@ -2,19 +2,62 @@
 
 ## Steps
 
-1. Scrape & extract data
-- Scrape transcripts
-- Extract audio/video data 
+1. Data Collection:
 
-2. Clean & process data
+Web scraping: Collect text data from Elon Musk's tweets, interviews, and articles.
+Video/Audio processing: Gather video and audio content featuring Elon Musk.
 
-3. Create embeddings
 
-4. Build RAG system
+2. Data Processing:
 
-5. Deploy 
+Text data: Clean and preprocess the scraped text data.
+Audio/Video processing:
+a. Transcribe audio to text.
+b. Perform speaker diarization to isolate Elon Musk's speech.
+c. Extract quotes and statements made by Elon Musk.
 
-6. Test & optimiz
+
+3. Create Embeddings:
+
+Choose an embedding model (e.g., OpenAI's text-embedding-ada-002).
+Generate embeddings for all collected text data.
+
+
+4. Set up Vector Store:
+
+Choose a vector database (e.g., Pinecone, Weaviate, or Faiss).
+Store the embeddings in the vector database.
+
+
+5. Implement RAG (Retrieval-Augmented Generation):
+
+Set up an LLM (e.g., GPT-3.5 or GPT-4).
+Implement a retrieval mechanism to fetch relevant context from the vector store.
+Design a prompt template that incorporates the retrieved context.
+
+
+6. Fine-tune the LLM:
+
+Prepare a dataset using Elon Musk's statements.
+Fine-tune the LLM to better emulate Elon Musk's speech patterns and knowledge.
+
+
+7. Develop the API:
+
+Create a FastAPI or Flask application to serve the AI model.
+Implement endpoints for querying the model and retrieving responses.
+
+
+8. Deployment:
+
+Set up a cloud environment (AWS or Azure).
+Deploy the application and necessary services.
+
+
+Testing and Iteration:
+
+Test the deployed system thoroughly.
+Gather feedback and iterate on the model and application as needed.
 
 Sources
 https://www.rev.com/blog/transcripts/elon-musk-interview-with-don-lemon
