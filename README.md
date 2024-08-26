@@ -1,5 +1,8 @@
 # elon_musk_ai
 
+elon_speeches.txt : personally scraped elon text
+elon_musk_speeches.txt: taken from shitelonsays.com (seems site is dead now; took from https://github.com/berpj/datasets/blob/master/speeches/elon_musk_speeches.txt)
+
 ## Steps
 
 1. Data Collection:
