@@ -1,0 +1,1385 @@
+Speaker 1
+
+00:04
+
+I want you to come with me to Tesla's huge gigafactory in Austin, Texas. So the day before it opened last week, the evening before, I was allowed to walk around it, no 1 else there. And what I saw there was honestly pretty mind-blowing. This is Elon Musk's famous machine that builds the machine, and his view, the secret to a sustainable future, is not just making an electric car, it's making a system that churns out huge numbers of electric cars with a margin so that they can fund further growth.
+
+Speaker 1
+
+00:40
+
+When I was there, none of us knew whether Elon would actually be able to make it here today, So I took the chance to sit down with him and record an epic interview. And I just want to show you a 9, an 8 minute excerpt of that interview. So here from Austin, Texas, Elon Musk. Want us to switch now to think a bit about artificial intelligence.
+
+Speaker 1
+
+01:03
+
+I'm curious about your timelines and how you predict and how come some things are so amazingly on the money and some aren't. So when it comes to predicting sales of Tesla vehicles, for example, I mean, you've kind of been amazing. I think in 2014, when Tesla had sold that year 60, 000 cars, you said, 2020, I think we will do half a million a year.
+
+Speaker 2
+
+01:25
+
+Yeah, we did almost exactly half a million.
+
+Speaker 1
+
+01:27
+
+5 years ago, last time you came to TED, I asked you about full self-driving and you said yep this very year Well, I'm confident that we will have a car going from LA to New York without any intervention
+
+Speaker 2
+
+01:43
+
+Yeah, I don't want to blow your mind, but I'm not always right
+
+Speaker 1
+
+01:47
+
+So talk to talk what's the difference between those 2 why why Why has full self-driving in particular been so hard to predict?
+
+Speaker 2
+
+01:55
+
+I mean the thing that really got me, and I think it's going to get a lot of other people, is that There are just so many false dawns with self-driving, where you think you've got the problem, have a handle on the problem, and then nope, turns out you just hit a ceiling. If you were to plot the progress, the progress looks like a log curve. So it's like a series of log curves.
+
+Speaker 2
+
+02:23
+
+So most people don't know what a log curve is, I suppose. But it goes up sort of a fairly straight way, and then it starts tailing off, and you start getting diminishing returns. In retrospect, they seem obvious. In order to solve full self-driving properly, you actually just have to solve real-world AI.
+
+Speaker 2
+
+02:47
+
+Because you say, what are the road networks designed to work with? They're designed to work with a biological neural net, our brains, and with vision, our eyes. And so in order to make it work with computers, you basically need to solve real world AI and vision. Because we need cameras and silicon neural nets in order to have self-driving work for a system that was designed for eyes and biological neural nets.
+
+Speaker 2
+
+03:27
+
+I guess when you put it that way, it's sort of quite obvious that the only way to solve full self-driving is to solve real-world AI and sophisticated vision.
+
+Speaker 1
+
+03:36
+
+What do you feel about the current architecture? Do you think you have an architecture now where there is a chance for the logarithmic curve not to tail off any time soon?
+
+Speaker 2
+
+03:47
+
+Well I mean, these may be an infamous last words but I actually am confident that we will solve it this year, that we will exceed. You said the probability of an accident, what points do you exceed that of the average person? I think we will exceed that this year.
+
+Speaker 2
+
+04:07
+
+We could be here talking again in a year and it's like, well, yet another year went by and it didn't happen. But I think this is the year.
+
+Speaker 1
+
+04:13
+
+Is there an element that you actually deliberately make aggressive prediction timelines to drive people to be ambitious. And without that, nothing gets done. So it feels like at some point in the last year, seeing the progress on understanding that the Tesla AI understanding the world around it led to a kind of an aha moment.
+
+Speaker 1
+
+04:38
+
+Because you really surprised people recently when you said probably the most important product development going on at Tesla this year is this robot Optimus.
+
+Speaker 2
+
+04:48
+
+Yes.
+
+Speaker 1
+
+04:49
+
+Is it something that happened in the development of full self-driving that gave you the confidence to say, you know what, we could do something special here?
+
+Speaker 2
+
+04:56
+
+Yeah, exactly. So, you know, it took me a while to sort of realize that in order to solve self-driving you really needed to solve real-world AI. And at the point at which you solve real-world AI for a car, which is really a robot on 4 wheels, you can then generalize that to a robot on legs as well.
+
+Speaker 2
+
+05:17
+
+The things that are currently missing are enough intelligence for the robot to navigate the real world and do useful things without being explicitly instructed. So the missing things are basically real world intelligence and scaling up manufacturing. Those are 2 things that Tesla is very good at and so then we basically just need to design the specialized actuators and sensors that are needed for a humanoid robot. People have no idea.
+
+Speaker 2
+
+05:48
+
+This is going to be bigger than the car.
+
+Speaker 1
+
+05:52
+
+But so talk about, I mean, I think the first applications you've mentioned are probably going to be manufacturing. But eventually, the vision is to have these available for people at home. Correct.
+
+Speaker 1
+
+06:01
+
+If you had a robot that really understood the 3D architecture of your house and knew where every object in that house was or was supposed to be and could recognize all those objects, I mean, that's kind of amazing, isn't it? Like, the kind of thing that you could ask a robot to do would be what? Like, tidy up.
+
+Speaker 2
+
+06:25
+
+Yeah, absolutely. Or... Make dinner, I guess, mow the lawn.
+
+Speaker 2
+
+06:30
+
+Take a cup
+
+Speaker 1
+
+06:31
+
+of tea to grandma and show her family pictures.
+
+Speaker 2
+
+06:35
+
+Exactly. Take care of my grandmother and make sure... Yeah, exactly.
+
+Speaker 1
+
+06:39
+
+It could recognise everyone in the home. Yeah. It could play catch with your kids.
+
+Speaker 2
+
+06:45
+
+Yes. Obviously we need to be careful that this doesn't become a dystopian situation. I think 1 of the things that's going to be important is to have a localized ROM chip on the robot that cannot be updated over the air, where if you, for example, were to say stop stop stop, that would, if anyone said that, then the robot would stop, you know, type of thing. And that's not updatable remotely.
+
+Speaker 2
+
+07:09
+
+I think it's gonna be important to have safety features like that. Yeah, that sounds wise. And I do think there should be a regulatory agency for AI. I've said this for many years.
+
+Speaker 2
+
+07:18
+
+I don't love being regulated, but I think this is an important thing for public safety.
+
+Speaker 1
+
+07:22
+
+Do you think there will be, basically, say in 2050 or whatever, a robot in most homes is what there will be and people
+
+Speaker 2
+
+07:31
+
+will love
+
+Speaker 1
+
+07:32
+
+them and count on them. You'll have your own butler basically.
+
+Speaker 2
+
+07:35
+
+Yeah, you'll have your sort of buddy robot. Probably. Yeah.
+
+Speaker 1
+
+07:39
+
+I mean, how much of a buddy? Like, how many applications do you thought is there? You know, can you have a romantic partner, a sex partner?
+
+Speaker 2
+
+07:46
+
+I mean, it's probably inevitable. I mean, I did promise the internet that I'd make cat girls. We could make a robot cat girl.
+
+Speaker 2
+
+07:55
+
+Be careful what you promise
+
+Speaker 1
+
+07:56
+
+the internet.
+
+Speaker 2
+
+08:00
+
+So, yeah, I guess it'll be whatever people want, really.
+
+Speaker 1
+
+08:05
+
+What sort of timeline should we be thinking about of the first models that are actually made and sold?
+
+Speaker 2
+
+08:14
+
+Well, the first units that we intend to make are for jobs that are dangerous, boring, repetitive, and things that people don't want to do. And, you know, I think we'll have like an interesting prototype sometime this year. We might have something useful next year, but I think quite likely within at least 2 years and then we'll see rapid growth year-over-year of the usefulness of the humanoid robots and decrease in cost and scaling up production.
+
+Speaker 1
+
+08:42
+
+Help me on the economics of this so what Do you picture the cost of 1 of these being?
+
+Speaker 2
+
+08:47
+
+Well, I think the cost is actually not going to be crazy high. Like less than a car.
+
+Speaker 1
+
+08:53
+
+But think about the economics of this. If you can replace a $30, 000, $40, 000 a year worker, which you have to pay every year, with a one-time payment of $25, 000 for a robot that can work longer hours, doesn't go on vacation. And that could be a pretty rapid replacement of certain types of jobs.
+
+Speaker 1
+
+09:17
+
+How worried should the world be about that?
+
+Speaker 2
+
+09:20
+
+I wouldn't worry about the sort of putting people out of a job thing. I think we're actually going to have and already do have a massive shortage of labor. So I think we will have not people out of work, but actually still a shortage of labor even in the future.
+
+Speaker 2
+
+09:40
+
+But this really will be a world of abundance. Any goods and services will be available to anyone who wants them. It'll be so cheap to have goods and services, it'll be ridiculous.
+
+Speaker 1
+
+09:58
+
+So, And now, arguably, the biggest visionary of them all, Elon Musk. Hey. Elon, welcome.
+
+Speaker 1
+
+10:13
+
+Elon, welcome. So Elon, a few hours ago you made an offer to buy Twitter. Why? How do you know?
+
+Speaker 1
+
+10:39
+
+Little bird tweeted in my ear or something, I don't know.
+
+Speaker 2
+
+10:42
+
+By the way, have you seen the movie Ted about the bear?
+
+Speaker 1
+
+10:46
+
+I have. It's a good movie. Don't mention that here.
+
+Speaker 2
+
+10:53
+
+So, yeah, yeah. Was there a question?
+
+Speaker 1
+
+10:59
+
+Why make that offer? So, well, I think it's
+
+Speaker 2
+
+11:03
+
+very important for there to be an inclusive arena for free speech where all, so, yeah. Twitter has become kind of the de facto town square. So it's just really important that people have both the reality and the perception that they're able to speak freely within the bounds of the law.
+
+Speaker 2
+
+11:35
+
+And, you know, so 1 of the things that I believe Twitter should do is open source the algorithm and make any changes to people's tweets, you know, if they're emphasized or de-emphasized, that action should be made apparent so anyone can see that action has been taken. So there's no sort of behind-the-scenes manipulation, either algorithmically or manually.
+
+Speaker 1
+
+12:03
+
+But last week when we spoke, Elon, I asked you whether you were thinking of taking up, you said no way. You said, I do not want to own Twitter. It is a recipe for misery.
+
+Speaker 1
+
+12:15
+
+Everyone will blame me for everything. What on earth changed?
+
+Speaker 2
+
+12:19
+
+No, I think everyone will still blame me for everything. Yeah. If something, if I acquire a tool and something goes wrong, it's my fault
+
+Speaker 1
+
+12:26
+
+100%.
+
+Speaker 2
+
+12:28
+
+I think there will be quite a few errors, yes.
+
+Speaker 1
+
+12:31
+
+But. It will be miserable, but you still want to do it. I mean,
+
+Speaker 2
+
+12:34
+
+I hope it's not too miserable, but I just think it's important to the function of democracy, It's important to the function of democracy. It's important to the function of the United States as a free country and on many other countries and to help actually to help freedom in the world more broadly than the US. And so I think it's a it's a you know I think this the risk civilizational risk is decreased if Twitter, the more we can increase the trust of Twitter as a public platform.
+
+Speaker 2
+
+13:17
+
+And so I do think this will be somewhat painful, and I'm not sure that I will actually be able to acquire it. And I should also say the intent is to retain as many shareholders as is allowed by the law in a private company which I think is around 2000 or so. So well it's not like it's definitely not not from the standpoint of let me figure out how to monopolize or maximize my ownership of Twitter. But we'll try to bring along as many shoulders as we as we're allowed to.
+
+Speaker 1
+
+13:47
+
+You don't necessarily want to pay out 40 or whatever it is, billion dollars in cash. You'd like them to come with you.
+
+Speaker 2
+
+13:54
+
+I mean, I could technically afford it. I heard that. I heard that.
+
+Speaker 2
+
+14:00
+
+But what I'm saying is this is not a way to sort of make money. I think this is, it's just that I think this is, my strong intuitive sense is that having a public platform that is maximally trusted and broadly inclusive is extremely important to the future of civilization. But you've described yourself... I don't care about the economics at all.
+
+Speaker 1
+
+14:34
+
+OK, that's core to here. This is not about the economics. It's for the moral good that you think it will achieve.
+
+Speaker 1
+
+14:41
+
+You've described yourself, Elon, as a free speech absolutist. But does that mean that there's literally nothing that people can't say and it's okay?
+
+Speaker 2
+
+14:51
+
+Well, I think Obviously Twitter or any forum is bound by the laws of the country that it operates in So obviously there are some limitations on free speech in the US and of course, Twitter would have to abide by those rules.
+
+Speaker 1
+
+15:13
+
+So you can't incite people to violence, like a direct incitement to violence. You know, you can't do the equivalent of crying fire in a movie theater, for example.
+
+Speaker 2
+
+15:24
+
+No, that would be a crime. Right. It should be a crime.
+
+Speaker 1
+
+15:28
+
+But here's the challenge, is that it's such a nuanced difference between different things. So there's incitement to violence. That's a no if it's illegal.
+
+Speaker 1
+
+15:39
+
+There's hate speech, which some forms of hate speech are fine, you know, I hate spinach.
+
+Speaker 2
+
+15:47
+
+I mean, if it's sautéed in a, you know, cream sauce, it would be quite nice.
+
+Speaker 1
+
+15:54
+
+But the problem is, so let's say someone says, okay, here's 1 tweet, I hate politician X. Next tweet is, I wish politician X wasn't alive, as some of us have said about Putin right now, for example. So that's legitimate speech.
+
+Speaker 1
+
+16:10
+
+Another tweet is, I wish politician X wasn't alive with a picture of their head with a gun sight over it. Or that plus their address. I mean, at some point, someone has to make a decision as to which of those is not okay. Can an algorithm do that?
+
+Speaker 1
+
+16:28
+
+Or surely you need human judgment at some point.
+
+Speaker 2
+
+16:31
+
+No, I think, like I said, in my view, Twitter should match the laws of the country, and really there's an obligation to do that. But going beyond that and having it be unclear who's making what changes to where, having tweets sort of mysteriously be promoted and demoted with no insight into what's going on, having a black box algorithm promote some things and not other things, I think this can be quite dangerous.
+
+Speaker 1
+
+17:10
+
+So the idea of opening the algorithm is a huge deal, and I think many people would welcome that, of understanding exactly how it's making the decision.
+
+Speaker 2
+
+17:19
+
+And critique it. And critique it. Like, what I mean is, like, I think the code should be on GitHub, you know?
+
+Speaker 2
+
+17:25
+
+So then, so people can look through it and say, like, I see a problem here, I don't agree with this, they can highlight issues, suggest changes, in the same way that you update Linux or Signal or something like that.
+
+Speaker 1
+
+17:41
+
+But as I understand it, at some point right now what the algorithm would do is it would look at, for example, how many people have flagged a tweet as obnoxious. And then at some point, a human has to look at it and make a decision as to does this cross the line or not. But the algorithm itself can't, I don't think yet, tell the difference between legal and okay and definitely obnoxious.
+
+Speaker 1
+
+18:08
+
+And so the question is, which humans, you know, make that call? I mean, do you have a picture of that? Right now, Twitter and Facebook and others, you know, they've hired thousands of people to try to help make wise decisions. And the trouble is that no 1 can agree on what is wise.
+
+Speaker 1
+
+18:26
+
+How do you solve that?
+
+Speaker 2
+
+18:29
+
+Well, I think we would want to err on this. If in doubt, let the speech, let it exist. It would have, you know, if it's a, you know, a gray area, I would say let the tweet exist.
+
+Speaker 2
+
+18:47
+
+But obviously, in a case where there's perhaps a lot of controversy, that you would not want to necessarily promote that tweet. I'm not saying that I have all the answers here, but I do think that we want to be just very reluctant to delete things and just be very cautious with permanent bans. Timeouts I think are better than sort of permanent bans. But just in general, like I said, it won't be perfect, but I think we wanted to really have, like I said, the perception and reality that speech is as free as reasonably possible.
+
+Speaker 2
+
+19:38
+
+And a good sign as to whether there is free speech is someone you don't like allowed to say something you don't like and If that is the case then we have free speech and it's it's damn annoying when someone you don't like says something you don't like That is a sign of a healthy functioning free speech situation
+
+Speaker 1
+
+20:04
+
+So I think many people would agree with that and looking at the reaction online many people are excited by you coming in and the changes you're proposing. Some others are absolutely horrified. Here's how they would see it.
+
+Speaker 1
+
+20:14
+
+They would say wait a sec. We agree that that Twitter is an incredibly important town square. It is where the world exchanges opinion about life and death matters. How on earth could it be owned by the world's richest person?
+
+Speaker 1
+
+20:27
+
+That can't be right. So How do you, I mean, what's the response there? Is there any way that you can distance yourself from the actual decision making that matters on content in some very clear way that is convincing to people?
+
+Speaker 2
+
+20:44
+
+Well, like I said, I think it's very important that the algorithm be open sourced and that any manual adjustments be identified. So if somebody did something to a tweet, there's information attached to it that that action was taken. And I won't personally be in there editing tweets, but you'll know if something was done to promote, demote, or otherwise affect a tweet.
+
+Speaker 2
+
+21:19
+
+As for media ownership, I mean you've got Mark Zuckerberg owning Facebook and Instagram and WhatsApp, and with a share ownership structure that will have Mark Zuckerberg the 14th still controlling those entities. So,
+
+Speaker 1
+
+21:41
+
+like literally. Well, certainly we
+
+Speaker 2
+
+21:45
+
+won't have that at Twitter.
+
+Speaker 1
+
+21:47
+
+If you commit to opening up the algorithm, that definitely gives some level of confidence. Talk about some of the other changes that you've proposed. So the edit button, that's definitely coming if you have your way.
+
+Speaker 2
+
+22:02
+
+Yes.
+
+Speaker 1
+
+22:02
+
+Yeah. And how do you...
+
+Speaker 2
+
+22:04
+
+I mean, I think, I mean, 1, frankly, a top priority I have, I would have is eliminating the spam and scam bots and the bot armies that are on Twitter. You know, I think these fun influence, They make the product much worse. If I had a Dogecoin for every crypto scam I saw, we'd have more than 100 billion Dogecoins.
+
+Speaker 2
+
+22:47
+
+Do you regret
+
+Speaker 1
+
+22:48
+
+sparking a sort of storm of excitement over Doge and, you know, where it's gone or?
+
+Speaker 2
+
+22:54
+
+I mean, I think Doge is fun and, you know, I've always said don't bet the farm on Dogecoin, FYI. But I think it's, I like dogs and I like memes, and it's got both of those.
+
+Speaker 1
+
+23:11
+
+But just on the edit button, how do you get around the problem of, so someone tweets Elon rocks, and it's tweeted by 2 million people. And then after that, they edit it. Elon sucks.
+
+Speaker 1
+
+23:24
+
+And then all those retweets, they're all embarrassed. And how do you avoid that type of changing of meaning so that retweeters are exploited?
+
+Speaker 2
+
+23:36
+
+Well, I think you'd only have the edit capability for a short period of time, and probably the thing to do upon the edit would be to 0 out all retweets and favorites.
+
+Speaker 1
+
+23:48
+
+OK.
+
+Speaker 2
+
+23:50
+
+I'm open to ideas, though.
+
+Speaker 1
+
+23:52
+
+So in 1 way, the algorithm works kind of well for you right now. I just wanted to show you this. So this is a typical tweet of mine, kind of lame and wordy and whatever, and look at the amazing response it gets, is this.
+
+Speaker 1
+
+24:07
+
+Oh my God, 97 likes. And then I tried another 1, And 29, 000 likes. So the algorithm, at least seems to be at the moment, if Elon Musk expand to the world immediately, not bad, right?
+
+Speaker 2
+
+24:31
+
+Yeah, I guess so. I mean, that's cool.
+
+Speaker 1
+
+24:35
+
+I mean, but you've... So help us understand how it is you've built this incredible following on Twitter yourself when... I mean, some of the people who love you the most look at some of what you tweet and they think it's somewhere between embarrassing and crazy.
+
+Speaker 1
+
+24:53
+
+Some of it's amazing.
+
+Speaker 2
+
+24:54
+
+I mean,
+
+Speaker 1
+
+24:54
+
+it is a little. But is that actually why it's worked or why is it worked?
+
+Speaker 2
+
+25:03
+
+I mean, I don't know. I mean, I'm, you know, tweeting more or less stream of consciousness, you know. It's not like let me think about some grand plan about my Twitter or whatever, you know.
+
+Speaker 2
+
+25:11
+
+I'm like literally on the toilet or something. I'm like, oh, this is funny and then tweet that out, you know. That's like most of them. You know, oversharing.
+
+Speaker 1
+
+25:25
+
+But you are obsessed with getting the most out of every minute of your day, and so why not? You know.
+
+Speaker 2
+
+25:32
+
+So, I don't know, I just like try to tweet out like things that are interesting or funny or, you know, and then people seem to like it.
+
+Speaker 1
+
+25:42
+
+So if you are unsuccessful, actually before I ask that, let me ask this. In fact, I don't... Yeah, so how can I say?
+
+Speaker 1
+
+25:50
+
+Is funding secured?
+
+Speaker 2
+
+25:57
+
+I have sufficient assets to complete the... It's not a forward-looking statement, blah, blah, blah. But I have to, I mean, I can do it if possible.
+
+Speaker 2
+
+26:09
+
+Right. So, and I should say actually, even in the, originally, with Tesla back in the day, funding was actually secured. I want to be clear about that. In fact, this may be a good opportunity to clarify that.
+
+Speaker 2
+
+26:30
+
+If funding was indeed secured, and I should say, why do I not have respect for the SEC in that situation and I don't mean to Blame everyone at the SEC, but certainly the San Francisco office It's because The SEC knew that funding was secured, but they pursued an active public investigation nonetheless. At the time, Tesla was in a precarious financial situation, and I was told by the banks that if I did not agree to settle with the SEC, that the banks would cease providing working capital and Tesla would go bankrupt immediately. So that's like having a gun to your child's head. So I was forced to concede to the SEC unlawfully, those bastards.
+
+Speaker 2
+
+27:18
+
+And now it makes it look like I lied when I did not in fact lie. I was forced to admit that I lied to save Tesla's life and that's the only reason.
+
+Speaker 1
+
+27:30
+
+Given what's actually happened to Tesla since then though, aren't you glad that you didn't take it private?
+
+Speaker 2
+
+27:40
+
+Yeah. I mean, it's difficult to put yourself in the position at the time, Tesla was under the most relentless short-seller attack in the history of the stock market. There's something called short and distort, where the barrage of negativity that Tesla was experiencing from short sellers on Wall Street was beyond all belief. Tesla was the most shorted stock in the history of stock markets.
+
+Speaker 2
+
+28:07
+
+This is saying something. So you know, this was affecting our ability to hire people, it was affecting our ability to sell cars, It was, they were, yeah, it was terrible. Yeah, they wanted Tesla to die so bad they could taste it.
+
+Speaker 1
+
+28:25
+
+Well, most of them have paid the price.
+
+Speaker 2
+
+28:27
+
+Yes. How, where are they now?
+
+Speaker 1
+
+28:36
+
+So that was a very strong statement. I mean, obviously a lot of people who support you, I would have thought, would say, you have so much to offer the world on the upside, on the vision side, don't waste your time getting distracted by these battles that bring out negativity and make people feel that you're being defensive. People don't like fights, especially with powerful government authorities.
+
+Speaker 1
+
+28:59
+
+They'd rather buy into your dream. Aren't you encouraged by people just to edit that temptation out and go with the bigger story?
+
+Speaker 2
+
+29:15
+
+Well, I mean, I would say like, you know, I'm someone of a mixed bag, you know, I mean
+
+Speaker 1
+
+29:23
+
+Well, you're a fighter and you don't you don't you don't you don't You don't like to lose and you you are determined that you don't basically I mean you are sure
+
+Speaker 2
+
+29:33
+
+I don't like to lose. I'm not sure many people do But the truth matters to me a lot, really, like, sort of pathologically, it matters to me.
+
+Speaker 1
+
+29:43
+
+Okay, so you don't like to lose. If, in this case, you are not successful in, you know, the board Does not accept your offer. You've said you won't go higher.
+
+Speaker 1
+
+29:53
+
+Is there a plan B?
+
+Speaker 2
+
+29:58
+
+There is I
+
+Speaker 1
+
+30:04
+
+Think I think we would like to hear a little bit about Plan B.
+
+Speaker 2
+
+30:11
+
+For another time, I think.
+
+Speaker 1
+
+30:13
+
+Another time? Yeah. All right.
+
+Speaker 1
+
+30:19
+
+That's a nice tease. I would love to try to understand this brain of yours more, Yolan. With your permission, I would like to play this. Before we do that, here was 1 of the thousands of questions that people asked.
+
+Speaker 1
+
+30:39
+
+I thought this was actually quite a good 1. If you could go back in time and change 1 decision you made along the way, do your own edit button, which 1 would it be and why? Do you mean
+
+Speaker 2
+
+30:50
+
+like a career decision or something?
+
+Speaker 1
+
+30:52
+
+Just any decision over the last few years, like your decision to invest in Twitter in the first place or your, anything.
+
+Speaker 2
+
+31:01
+
+I mean the worst business decision I ever made was not starting Tesla with just JB Straubel. By far the worst decision I've ever made is not just starting Tesla with JB. That's number 1 by far.
+
+Speaker 1
+
+31:20
+
+All right, so JB Straubel was the visionary co-founder who was obsessed with and knew so much about batteries. And your decision to go with Tesla, the company as it was, meant that you got locked into what you concluded was a weird architecture now of this.
+
+Speaker 2
+
+31:35
+
+There's a lot of confusion. Tesla did not exist in any... Tesla was a shell company with no employees, no intellectual property when I invested.
+
+Speaker 2
+
+31:45
+
+But a false narrative has been created by 1 of the other co-founders, Martin Everhart. And I don't want to get into the nastiness here, but I didn't invest in an existing company. We created a company. And ultimately, the creation of that company was done by JV and me.
+
+Speaker 2
+
+32:08
+
+And unfortunately there's someone else, another co-founder who has made it his life's mission to make it sound like he created the company, which is false.
+
+Speaker 1
+
+32:18
+
+Wasn't there another issue right at the heart of the development of the Tesla Model 3, where Tesla almost went bankrupt? And I think you have said that part of the reason for that was that you overestimated the extent to which it was possible at that time to automate a factory. A huge amount was spent over-automating, and it didn't work.
+
+Speaker 1
+
+32:40
+
+And it nearly took the company down. Is that fair?
+
+Speaker 2
+
+32:45
+
+I mean, first of all, it's important to understand, like, what is Tesla actually accomplished that is most noteworthy? It is not the creation of an electric vehicle or creating an electric vehicle prototype or low volume production of a car. There have been hundreds of car startups over the years, hundreds, and in fact, at 1 point, Bloomberg counted up the number of electric vehicle startups, and I think they got to almost
+
+Speaker 1
+
+33:19
+
+500.
+
+Speaker 2
+
+33:20
+
+So the hard part is not creating a prototype or going into limited production. The absolutely difficult thing, which has not been accomplished by an American car company in 100 years, is reaching volume production without going bankrupt. That is the actual hard thing.
+
+Speaker 2
+
+33:38
+
+The last company, American company, to reach volume production without going bankrupt was Chrysler in the 20s.
+
+Speaker 1
+
+33:47
+
+And it nearly happened to Tesla.
+
+Speaker 2
+
+33:50
+
+Yes, but it's not like, oh geez, I guess if we'd just done more manual stuff things would have been fine. Of course not, that is definitely not the case. So we basically messed up almost every aspect of the Model 3 production line.
+
+Speaker 2
+
+34:09
+
+From cells to packs to drive inverters, motors, body line, the paint shop, final assembly, everything. Everything was messed up. And I lived in the Fremont and Nevada factories for 3 years, fixing that production line, running around like a maniac through every part of that factory, living with the team. I slept on the floor so that the team who was going through a hard time could see me on the floor, that they knew that I was not in some ivory tower.
+
+Speaker 2
+
+34:59
+
+Whatever pain they experienced, I had it more.
+
+Speaker 1
+
+35:02
+
+And some people who knew you well actually thought you were making a terrible mistake, that you were driving us, you were driving yourself to the edge of sanity almost. And that you were in danger of making bad choices. And in fact, I heard you say last week, Elon, that you, because of Tesla's huge value now and, you know, the significance of every minute that you spend, that you are in danger of sort of obsessing over it, spending all this time to the point of, to the edge of sanity.
+
+Speaker 1
+
+35:36
+
+That doesn't sound super wise, isn't there? Like your time, your completely sane, centered, rested time and decision making is more powerful and compelling than that sort of, I can barely hold my eyes open. So surely it should be an absolute strategic priority to look after yourself.
+
+Speaker 2
+
+36:02
+
+I mean, there wasn't any other way to make it work. There were 3 years of hell.
+
+Speaker 1
+
+36:10
+
+2017, 18,
+
+Speaker 2
+
+36:11
+
+and 19 were 3 years, the longest period of excruciating pain in my life. There wasn't any other way. And we barely made it and we were on the ragged edge of bankruptcy the entire time.
+
+Speaker 2
+
+36:26
+
+So, I don't want pain. I don't like it. Those were 3 soaps so much pain. But it had to be done or Tesla would be dead.
+
+Speaker 1
+
+36:38
+
+When you looked around the Gigafactory that we saw images of earlier, last week, and just see where the company has come, do you feel that this challenge of figuring out the new way of manufacturing, that you actually have an edge now, that it's different, that you've figured out how to do this, and from those 3 years won't be repeated. You've actually figured out a new way of manufacturing.
+
+Speaker 2
+
+37:10
+
+At this point, I think I know more about manufacturing than anyone currently alive on Earth.
+
+Speaker 1
+
+37:19
+
+Sweetheart.
+
+Speaker 2
+
+37:24
+
+I can tell you how every damn part in that car is made. Basically, if you just live on the factory, you live in the factory for 3 years and... That was nice.
+
+Speaker 2
+
+37:34
+
+Poignant note or something?
+
+Speaker 1
+
+37:37
+
+Someone wants to compose a symphony to that expression of confidence. Something like that. I have no idea what that is.
+
+Speaker 2
+
+37:44
+
+Anyway, yeah. Every aspect of a car 6 ways to Sunday, I know.
+
+Speaker 1
+
+37:48
+
+I mean, you talk about scale right now. You're in the middle of writing your new master plan, and you've said that scale is at the heart of it. Why does scale matter?
+
+Speaker 1
+
+38:00
+
+Why are you obsessed with it? What are you thinking?
+
+Speaker 2
+
+38:02
+
+Yeah, well, see, in order to accelerate the advent of sustainable energy There must be scale because we've got a transition a vast economy that is currently overly dependent on fossil fuels to a sustainable energy economy, 1 where the energy is, yeah, I mean we got to do it. So the energy's got to be sustainably generated with wind, solar, hydro, geothermal. I'm a believer in nuclear, as Isabel, I think, gave a talk about.
+
+Speaker 2
+
+38:39
+
+And then since solar and wind is intermittent, you have to have stationary storage batteries. And then we're gonna transition all transport to electric. If we do those things, we have a sustainable energy future. The faster we do those things, the less risk we put to the environment.
+
+Speaker 2
+
+39:01
+
+So sooner is better. And so scale is very important. It's not about pressure releases, it's about tonnage. What was the tonnage of batteries produced and obviously done in a sustainable way.
+
+Speaker 2
+
+39:19
+
+And our estimate is that approximately 300 terawatt hours of battery storage is needed to transition, transport, electricity, and heating and cooling to a fully electric situation. There may be some different estimates out there, but our estimate is 300 terawatt hours.
+
+Speaker 1
+
+39:43
+
+We dug into this a lot in the interview that we recorded last week, so people can go in and hear that more. But I mean, the context is that is, I think, about a thousand times the current install battery capacity. I mean, the scale up needed is breathtaking, basically.
+
+Speaker 1
+
+39:57
+
+Yeah. And yeah. So so So your vision is to commit Tesla to try to deliver on a meaningful percentage of what is needed and call on others to do the rest. This is a task for humanity to massively scale up our response to change the energy grid.
+
+Speaker 2
+
+40:15
+
+Yes, it's like basically how fast can we scale and encourage others to scale to get to that 300 terawatt hour installed base of batteries. And then of course there'll be a tremendous need to recycle those batteries, and it makes sense to recycle them because the raw materials are like high-grade ore. So people shouldn't think, well, they'd be this big pile of batteries.
+
+Speaker 2
+
+40:42
+
+No, they're going to get recycled because Even a dead battery pack is worth about
+
+Speaker 1
+
+40:46
+
+$1, 000.
+
+Speaker 2
+
+40:49
+
+But this is what's needed for a sustainable energy future. So we're going to try to take a set of actions that accelerate the day and bring the day of a sustainable energy future sooner. OK.
+
+Speaker 1
+
+41:04
+
+There's going to be huge interest in your master plan when you publish that. Meanwhile, I would love to understand more what goes on in this brain of yours, because it is a pretty unique 1. I want to play, with your permission, this very funny opening from SNL.
+
+Speaker 1
+
+41:21
+
+Take it away.
+
+Speaker 2
+
+41:22
+
+Thank you very much. It's an honor to be hosting Saturday Night Live. I mean that.
+
+Speaker 2
+
+41:28
+
+Sometimes, after I say something, I have to say, I mean that. So people really know that I mean it. That's because I don't always have a lot of intonation or variation in how I speak. Which I'm told makes for great comedy.
+
+Speaker 2
+
+41:46
+
+I'm actually making History Night as the first person with Asperger's to host SNL.
+
+Speaker 1
+
+41:52
+
+And I think you followed that up with...
+
+Speaker 2
+
+41:54
+
+At least the first person to admit it.
+
+Speaker 1
+
+41:55
+
+The first person to admit it. But I mean... So this was a brave thing to say.
+
+Speaker 1
+
+42:06
+
+I would love to understand whether, you know, how you think of Asperger's, like whether you can give us any sense of, even you as a boy, what the experience was or as you now understand with the benefit of hindsight. Can you talk about that a bit? Well,
+
+Speaker 2
+
+42:25
+
+I think everyone's experience is going to be somewhat different. But I guess for me, the social cues were not intuitive. So I was just very bookish and I didn't understand this.
+
+Speaker 2
+
+42:41
+
+I guess others could sort of intuitively understand what was meant by something. I would just tend to take things very literally as just like the words as spoken were exactly what they meant. But then that turned out to be wrong. They're not simply saying exactly what they mean, there's all sorts of other things that are meant.
+
+Speaker 2
+
+43:07
+
+It took me a while to figure that out. So, I was bullied quite a lot. So, I did not have a sort of happy childhood, to be frank. It was quite rough.
+
+Speaker 2
+
+43:25
+
+But I read a lot of books. I read lots and lots of books. And so that, you know, sort of gradually I sort of understood more from the books that I was reading and watched a lot of movies. And, you know, just...
+
+Speaker 2
+
+43:43
+
+But it took me a while to understand things that most people intuitively understand.
+
+Speaker 1
+
+43:52
+
+So I've wondered whether it's possible that that was in a strange way an incredible gift to you and indirectly to many other people. In as much as brains, you know, are plastic and they go where the action is, and if for some reason the external world and social cues which so many people spend so much time and energy and mental energy obsessing over, if that is partly cut off, isn't it possible that that is partly what gave you the ability to understand inwardly the world at a much deeper level than most people do?
+
+Speaker 2
+
+44:32
+
+I suppose that's certainly possible. I think there's maybe some value also from a technology standpoint because I found it rewarding to spend all night programming computers just by myself. And I think most people don't enjoy typing strange symbols into a computer by themselves all night.
+
+Speaker 2
+
+44:56
+
+They think that's not fun, but I thought it was, I really liked it. So I would just program all night by myself and I found that to be quite enjoyable. But I think that is not normal.
+
+Speaker 1
+
+45:14
+
+So I mean it does. I've thought a lot about it's a riddle to a lot of people of how you've done this, how you've repeatedly innovated in these different industries. And it does.
+
+Speaker 1
+
+45:26
+
+You know, every entrepreneur sees possibility in the future and then acts to make that real. It feels to me like you see possibility just more broadly than almost anyone and can connect with it all. So you see scientific possibility based on a deep understanding of physics and knowing what the fundamental equations are, what the technologies are that are based on that science and where they could go, you see technological possibility. And then really unusually, you combine that with economic possibility of like what it actually would cost.
+
+Speaker 1
+
+46:00
+
+Is there a system you can imagine where you could affordably make that thing? And sometimes you then get conviction that there is an opportunity here. Put those pieces together and you could do something amazing.
+
+Speaker 2
+
+46:15
+
+Yeah, I think 1 aspect of whatever condition I had was I was just absolutely obsessed with truth, just obsessed with truth. And so the obsession with truth is why I studied physics, because physics attempts to understand the truth of the universe. Physics is just what are the provable truths of the universe and truths that have predictive power.
+
+Speaker 2
+
+46:47
+
+For me, physics was a very natural thing to study. Nobody made me study it. It was intrinsically interesting to understand the nature of the universe. And then computer science or information theory, also to just understand logic.
+
+Speaker 2
+
+47:06
+
+And there's an argument that information theory is actually operating at a more fundamental level than even physics. So, just, yeah. Physics and information theory were really interesting to me.
+
+Speaker 1
+
+47:29
+
+So when you say truth, I mean, it's not, like some people, what you're talking about is the truth of the universe, like the fundamental truths that drive the universe. It's like a deep curiosity about what this universe is, why we're here, simulation, why not, you know, We don't have time to go into that, but I mean, you're just deeply curious about what this is for, what this is, this whole thing.
+
+Speaker 2
+
+47:53
+
+Yes. I mean, I think the why of things is very important. I actually, When I was a, I don't know, young teens, I got quite depressed about the meaning of life. And I was trying to sort of understand the meaning of life, looking at reading religious texts and reading books on philosophy.
+
+Speaker 2
+
+48:17
+
+I got into the German philosophers, which is definitely not wise if you're a young teenager, I have to say. It can be a bit dark. So, much better read as an adult. And then, actually, I ended up reading The Hitchhiker's Guide to the Galaxy, which is actually a book on philosophy, just sort of disguised as a silly humor book, but actually it's actually a philosophy book.
+
+Speaker 2
+
+48:47
+
+And Adams makes the point that it's actually the question that is harder than the answer. He sort of makes a joke that the answer is 42. That number does pop up a lot. And 420 is just 10 times
+
+Speaker 1
+
+49:05
+
+42. 10 times more significant than 42. Okay.
+
+Speaker 2
+
+49:09
+
+You know, there's a...you can make a triangle with 42 degrees and 269s. So there's no such thing as a perfect triangle, or is there?
+
+Speaker 1
+
+49:23
+
+But even more important than the answer is the question. That was the whole theme of that book. I mean, is that basically how you see meaning then?
+
+Speaker 1
+
+49:32
+
+That it's the pursuit of questions?
+
+Speaker 2
+
+49:34
+
+Yeah, so I have a sort of, you know, a proposal for a worldview or a motivating philosophy, which is to understand what questions to ask about the answer that is the universe. And to the degree that we expand the scope and scale of consciousness, biological and digital, we will be better able to ask these questions, to frame these questions, and to understand why we're here, how we got here, what the heck is going on. And so that is my driving philosophy is to expand the scope and scale of consciousness that we may better understand the nature of the universe.
+
+Speaker 1
+
+50:14
+
+Elon, 1 of the things that was most touching last week was seeing you hang out with your kids. Here's, if I may...
+
+Speaker 2
+
+50:24
+
+It looks vaguely like a ventriloquist dummy there. LAUGHTER I mean, how do you know that's real? LAUGHTER
+
+Speaker 1
+
+50:32
+
+So that's X, and, you know, it was just a delight seeing you hang out with him. Sure. And what's his future going to be?
+
+Speaker 1
+
+50:44
+
+I mean, I don't mean him personally, but the world he's going to grow up in. What future do you believe he will grow up in?
+
+Speaker 2
+
+50:53
+
+Well, I mean, a very digital future. A different world than I grew up in, that's for sure. But I think we want to obviously do our absolute best to ensure that the future is good for everyone's children and that the future is something that you can look forward to and not feel sad about.
+
+Speaker 2
+
+51:23
+
+You know, you wanna get up in the morning and be excited about the future, and we should fight for the things that make us excited about the future. You know, the future cannot just be about 1 miserable thing after another, solving 1 sad problem after another. There got to be things that get you excited, like you want to live. These things are very important.
+
+Speaker 2
+
+51:46
+
+You should have more of it.
+
+Speaker 1
+
+51:48
+
+And it's not as if it's a done deal, like it's all to play for, like the future may be horrible, still there are scenarios where it is horrible, but you see a pathway to an exciting future both on Earth and on Mars and in our minds through artificial intelligence and so forth. I mean in your heart of hearts, do you really believe that you are helping deliver that exciting future for X and for others?
+
+Speaker 2
+
+52:19
+
+I mean I'm trying my hardest to do so. I, you know, I love humanity and I think that we should fight for a good future for humanity. And I think we should be optimistic about the future and fight to make that optimistic future happen.
+
+Speaker 1
+
+52:44
+
+Gilan, I think that's a perfect place to close this. Thank you so much for spending time coming here and for the work that you're doing. And good luck with finding a wise course through on Twitter and everything else.
+
+Speaker 1
+
+52:56
+
+Elon Musk. Thank you.
+
+Speaker 2
+
+52:58
+
+Thank you. Thank you. Woo!
+
+Speaker 2
+
+52:59
+
+Hey. Hey. Hey, guys. Hello.
+
+Speaker 2
+
+53:01
+
+Thank you. Bye guys. Bye.
