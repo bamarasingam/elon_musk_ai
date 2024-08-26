@@ -55,6 +55,10 @@ Implement endpoints for querying the model and retrieving responses.
 Set up a cloud environment (AWS or Azure).
 Deploy the application and necessary services.
 
+9. Additional Steps:
+- Would like to create a TTS system in which the outputted answer is spoken in an Elon-like voice
+- Purely for educational purposes only
+
 
 Testing and Iteration:
 

@@ -164,5 +164,5 @@ cython_debug/
 extras.txt
 original_texts.pkl
 faiss_index.bin
-speech_total.json
-elon_streamlit.py
+old_work/
+flask_app.py
