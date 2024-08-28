@@ -166,3 +166,6 @@ original_texts.pkl
 faiss_index.bin
 old_work/
 flask_app.py
+cached_lm_GPT2Tokenizer_128_elon_speeches.txt
+cached_lm_GPT2Tokenizer_128_elon_speeches.txt.lock
+elon_gpt2/
