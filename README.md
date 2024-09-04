@@ -75,5 +75,5 @@ https://www.pbs.org/thinktank/transcript1292.html
 https://lexfridman.com/elon-musk-4-transcript/
 https://www.rev.com/blog/transcripts/dealbook-summit-2023-elon-musk-interview-transcript
 https://www.thehenryford.org/documents/default-source/default-document-library/transcript_musk_full-length.pdf?sfvrsn=f5722f01_0
-cnbc-exclusive-cnbc-transcript-elon-musk-sits-down-with-cnbcs-david-faber-live-on-cnbc-tonight-.html
+https://www.cnbc.com/2023/05/16/cnbc-exclusive-cnbc-transcript-elon-musk-sits-down-with-cnbcs-david-faber-live-on-cnbc-tonight-.html
 https://transcript.lol/read/tedtalk/elon-musk/64a0b778503edabcbda8a4d0
