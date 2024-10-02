@@ -172,3 +172,4 @@ elon_gpt2/
 cached_lm_GPT2Tokenizer_128_elon_data.txt
 cached_lm_GPT2Tokenizer_128_elon_data.txt.lock
 elon_speech_pattern/
+audio/
